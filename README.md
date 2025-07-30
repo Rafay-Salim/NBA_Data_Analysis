@@ -84,6 +84,5 @@ Visualizations can be exported as .png files if needed.
 👨‍💻 ***Author***
 
 Rafay Salim
-Feel free to reach out with suggestions or feedback!
 
 
