@@ -14,7 +14,7 @@ Data Cleaning & Preparation: Handles missing values and formats the dataset for 
 
 Statistical Summaries: Calculates average, median, and distribution for various performance metrics.
 
-Visual Explorations:
+📊 Visual Explorations:
 
 Player scoring trends over the years.
 
