@@ -5,7 +5,7 @@ This repository contains an exploratory data analysis (EDA) project focused on h
 The project provides insights into player performance metrics, trends over the years, and relationships between different statistical measures. It is intended for sports analysts, data enthusiasts, or anyone interested in learning more about basketball data analytics.
 
 📁 Contents
-NBA Data Analysis.ipynb: The main notebook containing code and visualizations for EDA on NBA player statistics.
+'NBA Data Analysis.ipynb: The main notebook containing code and visualizations for EDA on NBA player statistics.
 
 README.md: Project overview and instructions.
 
