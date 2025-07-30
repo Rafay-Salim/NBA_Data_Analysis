@@ -1,20 +1,27 @@
 🏀 
 **NBA Data Analysis**
+
+
 A visual and statistical exploration of NBA player performance metrics across seasons. This project uses Python and Jupyter to uncover trends, outliers, and player comparisons using real-world basketball data. Perfect for sports analytics enthusiasts and data science learners.
 
 📊 
 ***Overview***
+
+
 The project provides insights into player performance metrics, trends over the years, and relationships between different statistical measures. It is intended for sports analysts, data enthusiasts, or anyone interested in learning more about basketball data analytics.
 
+
+
 📁 ***Contents***
+
 
 'NBA Data Analysis.ipynb: The main notebook containing code and visualizations for EDA on NBA player statistics.
 
 README.md: Project overview and instructions.
 
 🔍 ***Key Fatures***
-
-Data Cleaning & Preparation: Handles missing values and formats the dataset for analysis.
+- 
+- Data Cleaning & Preparation: Handles missing values and formats the dataset for analysis.
 
 Statistical Summaries: Calculates average, median, and distribution for various performance metrics.
 
