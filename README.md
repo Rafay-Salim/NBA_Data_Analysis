@@ -44,16 +44,18 @@ Clone the repository:
 Copy code
 git clone https://github.com/your-username/nba-data-analysis.git
 cd nba-data-analysis
+
 Install dependencies:
-Make sure you have Python and Jupyter installed. You can install the required packages via:'''
+Make sure you have Python and Jupyter installed. 
 
 '''bash
 Copy code
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib seabor
+
 Launch the notebook
 
-bash
-Copy code
+'''bash
+Copy code'
 jupyter notebook NBA\ Data\ Analysis.ipynb'''
 
 📌 Notes
