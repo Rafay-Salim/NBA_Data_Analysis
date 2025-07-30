@@ -73,8 +73,10 @@ Time series plots of average league performance metrics
 Heatmaps showing stat correlations
 
 👨‍💻 Author
-Rafay Salim
+R
+afay Salim
 Feel free to reach out with suggestions or feedback!
 
 📄 License
+
 This project is licensed under the MIT License.
