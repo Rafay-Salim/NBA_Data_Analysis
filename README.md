@@ -1,11 +1,9 @@
 🏀 
-***NBA-Data-Analysis***
-                  
-This repository contains an exploratory data analysis (EDA) project focused on historical NBA player statistics, performances, and trends. The analysis is implemented using Python in a Jupyter Notebook, leveraging popular libraries like pandas, matplotlib, and seaborn.
+**NBA Data Analysis**
+A visual and statistical exploration of NBA player performance metrics across seasons. This project uses Python and Jupyter to uncover trends, outliers, and player comparisons using real-world basketball data. Perfect for sports analytics enthusiasts and data science learners.
 
 📊 
 ***Overview***
-
 The project provides insights into player performance metrics, trends over the years, and relationships between different statistical measures. It is intended for sports analysts, data enthusiasts, or anyone interested in learning more about basketball data analytics.
 
 📁 ***Contents***
